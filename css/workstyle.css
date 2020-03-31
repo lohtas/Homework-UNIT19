@@ -1,0 +1,16 @@
+.topJumbotron {
+    background-color: lightgray;
+}
+
+#contact {
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75px;
+    color: white;
+    padding: 50px;
+}
+
+#me {
+    width: 200px;
+}
